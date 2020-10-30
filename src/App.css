@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+ background-color:burlywood
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.mainColor{
+  color:linear-gradient(120deg,red,purple)
 }
 
 .App-logo {
