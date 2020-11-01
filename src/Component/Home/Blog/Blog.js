@@ -3,7 +3,7 @@ import Navbar from '../Navbar/Navbar';
 
 const Blog = () => {
     return (
-        <div style={{ backgroundColor:'burlywood',height:'100vh'}}>
+        <div style={{ backgroundColor:'Black',color:'white',height:'100vh'}}>
             <Navbar></Navbar>
             <h1 style={{color:'white',margin:'10px'}}>Blog is coming ......</h1>
         </div>
